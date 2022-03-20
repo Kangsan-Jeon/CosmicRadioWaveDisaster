@@ -3,7 +3,7 @@ AI competition to predict cosmic radio waves disaster
 
 Informations of competition is on [here](https://sapiensteam.com/make/contestDetail.do?contestId=23)
 
-![공모전 포스터](./우주전파재난 예측 공모전.jpg)
+![공모전 포스터](./우주전파재난_예측_공모전.jpg)
 
 This project was worked with 박현후, [신승헌](https://github.com/Seungheon-Shin)
 
